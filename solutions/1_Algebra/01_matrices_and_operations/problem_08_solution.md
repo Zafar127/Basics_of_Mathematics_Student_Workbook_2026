@@ -4,7 +4,7 @@
 
 Starting with
 $$A=\begin{pmatrix}1&2&-1\\2&4&1\\-1&1&3\end{pmatrix},$$
-perform the two specified row replacements followed by swapping rows 2 and 3. State the inverse operation for each step.
+perform, in order, $R_2\leftarrow R_2-2R_1$, $R_3\leftarrow R_3+R_1$, and then swap rows 2 and 3. State the inverse operation for each step.
 
 ## Theoretical Background and Concepts
 

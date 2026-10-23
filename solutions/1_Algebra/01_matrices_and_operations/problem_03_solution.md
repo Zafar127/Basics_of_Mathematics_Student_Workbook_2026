@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-For matrices with sizes $A_{2\times3}$, $B_{3\times4}$, $C_{4\times2}$, and $D_{2\times2}$, determine whether each listed product is defined and give the result size when it is.
+For matrices with sizes $A_{2\times3}$, $B_{3\times4}$, $C_{4\times2}$, and $D_{2\times2}$, determine whether $AB$, $BA$, $BC$, $CB$, $AC$, $CA$, $AD$, and $DA$ are defined, and give the result size for every defined product.
 
 ## Theoretical Background and Concepts
 

@@ -9,7 +9,7 @@ compute $Ab_1$, $Ab_2$, and $AB$, where $b_1,b_2$ are the columns of $B$.
 
 ## Theoretical Background and Concepts
 
-If $B=[b_1\ b_2]$, then multiplying by $A$ acts on each column: $AB=[Ab_1\ Ab_2]$. This follows directly from the definition of matrix multiplication.
+If $B=[b_1\ b_2]$, then multiplying by $A$ acts on each column: $AB=[Ab_1\ Ab_2]$. Indeed, entry $i$ of $Ab_j$ is the dot product of row $i$ of $A$ with column $j$ of $B$, which is exactly entry $(i,j)$ of $AB$. Thus every entry in column $j$ of $AB$ equals the corresponding entry of $Ab_j$.
 
 ## Detailed Step-by-Step Solution
 
@@ -24,7 +24,7 @@ Ab_2=\begin{pmatrix}2+0+0\\0+0+1\end{pmatrix}
 
 Putting these vectors side by side gives
 $$AB=\begin{pmatrix}-1&2\\2&1\end{pmatrix}.$$
-Its first and second columns are exactly $Ab_1$ and $Ab_2$.
+Its first and second columns are exactly $Ab_1$ and $Ab_2$, as follows from this entry-by-entry definition of the product.
 
 ## Verification and Consistency Checks
 

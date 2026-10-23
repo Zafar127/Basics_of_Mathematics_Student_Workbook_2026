@@ -6,7 +6,7 @@
 Given
 $$A=\begin{pmatrix}2&-1&3\\0&4&5\end{pmatrix},\qquad
 B=\begin{pmatrix}1&0\\-2&3\\4&1\end{pmatrix},$$
-find their sizes, the specified entries, the second row of $A$, and the first column of $B$.
+find their sizes, the entries $a_{12}$, $a_{23}$, $b_{21}$, and $b_{32}$, the second row of $A$, and the first column of $B$.
 
 ## Theoretical Background and Concepts
 
