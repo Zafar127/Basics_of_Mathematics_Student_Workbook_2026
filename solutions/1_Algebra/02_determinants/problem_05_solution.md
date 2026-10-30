@@ -1,5 +1,13 @@
 # Exercise 5 — Row Operations and Determinants
 
+## Question
+
+For
+$$A=\begin{pmatrix}1&2&3\\2&1&0\\-1&4&2\end{pmatrix}$$
+find $\det A$ by simplifying the matrix with row operations. At each step, indicate whether and how the determinant changes.
+
+## Solution
+
 Start with
 \(A=\begin{pmatrix}1&2&3\\2&1&0\\-1&4&2\end{pmatrix}\).
 Use row additions, which preserve the determinant:

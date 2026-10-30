@@ -1,5 +1,13 @@
 # Exercise 5 — Row Echelon Form and Number of Solutions
 
+## Question
+
+For the augmented matrix
+$$\left[\begin{array}{ccc|c}1&2&-1&3\\0&1&2&1\\0&0&0&0\end{array}\right]$$
+determine the number of solutions and write them in parametric form. Explain how you know how many variables may be chosen freely.
+
+## Solution
+
 The rows represent
 \[
 x+2y-z=3,\qquad y+2z=1.
