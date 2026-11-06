@@ -12,7 +12,9 @@ Two vectors in the plane are
 \]
 Their cross product is a normal:
 \[
-n=\overrightarrow{AB}\times\overrightarrow{AC}=(1,1,1).
+n=\overrightarrow{AB}\times\overrightarrow{AC}
+=(1\cdot1-0\cdot0,\;0\cdot(-1)-(-1)\cdot1,\;(-1)\cdot0-1\cdot(-1))
+=(1,1,1).
 \]
 Using point \(A\), the plane is
 \[

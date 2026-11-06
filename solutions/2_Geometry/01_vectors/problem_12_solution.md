@@ -13,7 +13,9 @@ Two vectors in the plane are
 \]
 Their cross product gives a normal vector:
 \[
-n=\overrightarrow{AB}\times\overrightarrow{AC}=(5,3,4).
+n=\overrightarrow{AB}\times\overrightarrow{AC}
+=(1\cdot(-1)-(-2)\cdot3,\;(-2)\cdot(-1)-1\cdot(-1),\;1\cdot3-1\cdot(-1))
+=(5,3,4).
 \]
 Check both dot products:
 \[

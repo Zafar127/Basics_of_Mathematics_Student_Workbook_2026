@@ -12,6 +12,8 @@ Subtracting the second plane equation from the first gives \(2y=2\), so \(y=1\);
 \]
 The direction from this parameterization is \((-1,0,1)\). The plane normals are \(n_1=(1,1,1)\), \(n_2=(1,-1,1)\), and
 \[
-n_1\times n_2=(2,0,-2)=-2(-1,0,1),
+n_1\times n_2
+=(1\cdot1-1\cdot(-1),\;1\cdot1-1\cdot1,\;1\cdot(-1)-1\cdot1)
+=(2,0,-2)=-2(-1,0,1),
 \]
 which is a nonzero scalar multiple of the same direction. Substitution shows the parameterized points satisfy both plane equations.

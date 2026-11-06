@@ -12,7 +12,8 @@ For \(A=(0,0,0)\), \(B=(2,1,0)\), and \(C=(1,3,2)\), construct \(\overrightarrow
 Their cross product is
 \[
 \overrightarrow{AB}\times\overrightarrow{AC}
-=(2,-4,5),
+=(1\cdot2-0\cdot3,\;0\cdot1-2\cdot2,\;2\cdot3-1\cdot1)
+=(2,-4,5).
 \]
 so the parallelogram area is
 \[

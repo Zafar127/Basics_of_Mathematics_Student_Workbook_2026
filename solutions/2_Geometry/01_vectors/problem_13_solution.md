@@ -14,7 +14,9 @@ Given \(A=(0,0,0)\), \(B=(1,2,0)\), \(C=(0,1,1)\), and \(D=(2,5,1)\):
 \[
 \overrightarrow{AB}=(1,2,0),\qquad
 \overrightarrow{AC}=(0,1,1),\qquad
-n=\overrightarrow{AB}\times\overrightarrow{AC}=(2,-1,1).
+n=\overrightarrow{AB}\times\overrightarrow{AC}
+=(2\cdot1-0\cdot1,\;0\cdot0-1\cdot1,\;1\cdot1-2\cdot0)
+=(2,-1,1).
 \]
 Also \(\overrightarrow{AD}=(2,5,1)\), and
 \[

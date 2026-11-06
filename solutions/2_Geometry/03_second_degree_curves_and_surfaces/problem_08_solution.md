@@ -10,4 +10,9 @@ Completing the square gives
 \[
 (x-2)^2+(y+1)^2+(z-3)^2=16.
 \]
+The three completed-square steps are \(x^2-4x=(x-2)^2-4\), \(y^2+2y=(y+1)^2-1\), and \(z^2-6z=(z-3)^2-9\). Substituting these into the original equation gives
+\[
+(x-2)^2-4+(y+1)^2-1+(z-3)^2-9-2=0,
+\]
+so \((x-2)^2+(y+1)^2+(z-3)^2=4+1+9+2=16\).
 The center is \((2,-1,3)\), and the radius is \(4\). For example, \((6,-1,3)\) and \((2,3,3)\) are on the sphere, since each is \(4\) units from the center. In the original equation they give \(36+1+9-24-2-18-2=0\) and \(4+9+9-8+6-18-2=0\), respectively.

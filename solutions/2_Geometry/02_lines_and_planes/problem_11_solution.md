@@ -12,7 +12,9 @@ w=P-A=(-1,2,-1).
 \]
 Their cross product is a normal:
 \[
-n=v\times w=(1,2,3).
+n=v\times w
+=(1\cdot(-1)-(-1)\cdot2,\;(-1)\cdot(-1)-1\cdot(-1),\;1\cdot2-1\cdot(-1))
+=(1,2,3).
 \]
 The plane through \(A\) is therefore
 \[

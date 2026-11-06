@@ -15,8 +15,10 @@ Equating coordinates gives
 \[
 1+t=2,\qquad 1+2t=s,\qquad t=1-s.
 \]
-The first equation gives \(t=1\); then the second gives \(s=3\), and the third is satisfied. Substitution gives the common point
+The first equation gives \(t=1\); then the second gives \(s=3\). But the third equation would require \(1=1-3=-2\), which is impossible, so the lines do not intersect. Their direction vectors \((1,2,1)\) and \((0,1,-1)\) are not proportional, so they are not parallel either. They are skew lines.
+
+The corresponding points at the candidate parameters are
 \[
-(2,3,1).
+\text{on }L_1:(2,3,1),\qquad\text{on }L_2:(2,3,-2),
 \]
-Therefore the lines intersect (and are neither parallel nor skew).
+which differ in their third coordinate.
