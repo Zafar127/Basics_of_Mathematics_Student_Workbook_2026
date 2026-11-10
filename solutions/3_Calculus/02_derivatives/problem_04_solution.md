@@ -1,5 +1,11 @@
 # Problem 4 — A Quotient and Domain Control
 
+## Question
+
+For
+$$f(x)=\frac{x^2+1}{x-1}$$
+determine the domain, compute the derivative, simplify the result, and explain why the restriction $x\neq1$ remains important.
+
 ## Solution
 
 The denominator cannot vanish, so the domain is \(\mathbb R\setminus\{1\}\). By the quotient rule,

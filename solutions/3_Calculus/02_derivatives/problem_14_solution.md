@@ -1,5 +1,11 @@
 # Problem 14 — Continuity and Differentiability
 
+## Question
+
+Investigate the behavior at $x=0$ of
+$$f(x)=\begin{cases}x^2,&x\ge0,\\ax,&x<0.\end{cases}$$
+For which values of $a$ is the function continuous? For which values do the one-sided derivatives exist and agree? For which value of $a$ is the function differentiable? Explain why continuity alone is not sufficient.
+
 ## Solution
 
 At zero, \(f(0)=0\). The right-hand limit is \(0\), and the left-hand limit \(ax\to0\) for every real \(a\); thus the function is continuous for every \(a\).

@@ -1,5 +1,11 @@
 # Problem 6 — A Logarithmic Function
 
+## Question
+
+Analyze the domain, zero, and monotonicity of
+$$f(x)=\ln x-x+1.$$
+Explain why the analysis must begin with the domain.
+
 ## Solution
 
 The logarithm requires \(x>0\), so the domain is \((0,\infty)\). The zero solves \(\ln x-x+1=0\); \(x=1\) is the only one, since

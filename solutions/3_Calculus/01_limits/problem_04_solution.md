@@ -1,5 +1,11 @@
 # Exercise 4 — Powers and Oscillation
 
+## Question
+
+Analyze
+$$\left(\frac23\right)^n,\qquad \left(\frac32\right)^n,\qquad (-1)^n,\qquad \frac{(-1)^n}{n}.$$
+For each sequence, describe the type of behavior and justify your answer.
+
 ## Solution
 
 - \((2/3)^n\to0\), since powers of a number with absolute value less than \(1\) tend to zero.

@@ -1,5 +1,11 @@
 # Problem 9 — Definite Integral and Geometric Area
 
+## Question
+
+Compute
+$$\int_{-1}^{2}x\,dx.$$
+Then separately compute the areas of the parts of the graph below and above the $x$-axis and explain the difference between the definite integral and geometric area.
+
 ## Solution
 
 \[

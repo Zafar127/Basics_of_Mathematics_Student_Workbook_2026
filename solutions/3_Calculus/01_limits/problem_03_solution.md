@@ -1,5 +1,11 @@
 # Exercise 3 — A Square Root and Conjugation
 
+## Question
+
+Compute
+$$\lim_{n\to\infty}\left(\sqrt{n^2+5n}-n\right).$$
+Use the conjugate expression and explain why this transformation removes the difficulty.
+
 ## Solution
 
 Rationalize:

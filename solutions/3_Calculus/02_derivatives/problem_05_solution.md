@@ -1,5 +1,11 @@
 # Problem 5 — The Chain Rule
 
+## Question
+
+For
+$$f(x)=(3x^2-2x+1)^5$$
+identify the inner and outer functions, compute their derivatives, and combine the result according to the chain rule. Explain the origin of the additional factor.
+
 ## Solution
 
 Let \(u(x)=3x^2-2x+1\) be the inner function and \(g(u)=u^5\) the outer function. Then \(u'(x)=6x-2\), \(g'(u)=5u^4\), and

@@ -1,5 +1,11 @@
 # Exercise 5 — The Classical Limit Leading to \(e\)
 
+## Question
+
+Compute
+$$\lim_{n\to\infty}\left(1+\frac1n\right)^n.$$
+Calculate several values for increasing $n$ and compare the observed behavior with the value of the limit. Explain why a few values do not constitute a proof.
+
 ## Solution
 
 \[

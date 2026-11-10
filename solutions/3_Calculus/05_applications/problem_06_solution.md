@@ -1,5 +1,15 @@
 # Problem 6 — Average Value of a Function
 
+## Question
+
+Compute the average value of the function
+$$
+f(x)=x^2
+$$
+on the interval $[0,3]$.
+
+Find a point $c\in[0,3]$ for which $f(c)$ is equal to this average value, and interpret the result geometrically.
+
 ## Solution
 
 The average value on \([0,3]\) is

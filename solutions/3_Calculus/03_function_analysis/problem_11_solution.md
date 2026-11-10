@@ -1,5 +1,11 @@
 # Problem 11 — A Parameter and the Number of Extrema
 
+## Question
+
+For
+$$f_a(x)=x^3-3ax$$
+depending on $a$, determine the number of critical points and their character. Separate the parameter cases and justify why the structure of the graph changes.
+
 ## Solution
 
 \[

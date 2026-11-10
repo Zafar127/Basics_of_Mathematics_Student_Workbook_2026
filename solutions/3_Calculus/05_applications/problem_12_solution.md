@@ -1,5 +1,22 @@
 # Problem 12 — Exhibition Room Optimization
 
+## Question
+
+A museum wants to create a rectangular exhibition room next to an existing straight wall. The side along the wall does not need to be built. The remaining three sides are to be constructed to two different standards: the two sides perpendicular to the wall cost $300\ \mathrm{PLN/m}$ each, while the side parallel to the wall costs $500\ \mathrm{PLN/m}$. The budget is $30\,000\ \mathrm{PLN}$.
+
+Build a model that maximizes the area of the room and prepare a complete analysis containing:
+
+- definition of variables and units,
+- mathematical model,
+- domain resulting from the problem statement,
+- computation of the derivative,
+- determination and verification of the optimum,
+- interpretation of the result,
+- graph of the objective function,
+- numerical verification of several values near the optimum found.
+
+Finally, indicate which part of the solution required modeling the problem and which part was only the execution of the calculation. Produce the graph and computer calculations only after completing the mathematical solution, and treat them as verification.
+
 ## Solution
 
 Let \(x\) be the room depth perpendicular to the wall (m), and \(y\) the length parallel to the wall (m). The two depth sides cost \(600x\) PLN in total, and the opposite side costs \(500y\) PLN. Using the full budget,

@@ -1,5 +1,11 @@
 # Exercise 6 — Limit at Infinity
 
+## Question
+
+Compute
+$$\lim_{x\to\infty}\frac{3x^2-x+1}{5x^2+4x-2}.$$
+Compare the method with Exercise 1. Explain what changes when moving from $n$ to a real variable $x$, and what stays the same.
+
 ## Solution
 
 Divide numerator and denominator by \(x^2\):

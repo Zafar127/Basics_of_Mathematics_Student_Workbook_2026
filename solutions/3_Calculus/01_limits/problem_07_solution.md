@@ -1,5 +1,11 @@
 # Exercise 7 — Limit at a Point and Canceling a Factor
 
+## Question
+
+Compute
+$$\lim_{x\to3}\frac{x^2-4x+3}{x-3}.$$
+Explain why the value of the function at $x=3$ is not needed to compute the limit.
+
 ## Solution
 
 Factor the numerator and cancel for \(x\ne3\):

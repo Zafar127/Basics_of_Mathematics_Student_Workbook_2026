@@ -1,5 +1,16 @@
 # Problem 7 — Exponential Growth
 
+## Question
+
+Assume the model
+$$
+N(t)=N_0e^{kt},\qquad k>0.
+$$
+
+1. Verify by differentiation that the model satisfies the relation $N'(t)=kN(t)$.
+2. Find the population doubling time.
+3. Explain why the doubling time does not depend on $N_0$.
+
 ## Solution
 
 \[

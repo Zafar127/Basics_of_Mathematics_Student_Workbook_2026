@@ -1,5 +1,11 @@
 # Problem 7 — Integration by Parts
 
+## Question
+
+Compute
+$$\int xe^x\,dx.$$
+First write the product differentiation rule and, on that basis, explain the meaning of the integration-by-parts formula. Verify the result by differentiation.
+
 ## Solution
 
 The product rule is \((uv)'=u'v+uv'\). Rearranging and integrating yields

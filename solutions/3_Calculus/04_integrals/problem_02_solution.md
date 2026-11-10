@@ -1,5 +1,11 @@
 # Problem 2 — Powers, Roots, and the Domain
 
+## Question
+
+Compute
+$$\int\left(2\sqrt{x}+\frac{3}{x^2}-x^{1/3}\right)\,dx.$$
+First rewrite the terms as powers, determine the domain of the original expression, and verify the result by differentiation.
+
 ## Solution
 
 The integrand is \(2x^{1/2}+3x^{-2}-x^{1/3}\). Its original real-valued domain is \(x>0\). Integrating term by term,
